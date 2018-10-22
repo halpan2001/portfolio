@@ -1,0 +1,15 @@
+title: Hal's Blog
+author: halpan2001
+email: hal.h.pan@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This page is where I'll keep up to date information about 
+  who I am, what I'm working on, and what I'm thinking about! I'll
+  also post fun/funny things I found on the internet so it'll be like
+  a single page blog.
+# social links
+twitter_username: damysterioushal
+github_username:  halpan2001
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
